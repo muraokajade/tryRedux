@@ -1,0 +1,17 @@
+storeを作成（グローバルで使える状態にする）
+Sliceを作成(Sliceを理解しているか確認)
+
+
+Slice
+--買い物かごの初期化
+
+Sliceからreducerをstoreに渡す(名前変更して良い)
+
+
+
+コンポーネント
+rafce
+Navbarの作成
+CartContainerの作成
+CartItemの作成
+
